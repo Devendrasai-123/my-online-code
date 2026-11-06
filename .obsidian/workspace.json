@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "cbad6cdad1f1b2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cd2fc6638cdf58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4194f2523df1506c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ai&ml all roadmap things/AI-ML-Engineer-Roadmap.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AI-ML-Engineer-Roadmap"
+            }
+          },
+          {
+            "id": "9b0057e8bf0bf00f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "11b8d5ff53f53745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai&ml all roadmap things/TOPICS AND SUBTOPICS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOPICS AND SUBTOPICS"
+            }
+          },
+          {
+            "id": "bd85d1f663f5010f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30cb4f791af61fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a990b28ccaf6af2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c58e61cf0f0793",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fe1e651080cea10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf015ff67b5eaedb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d2c94cad7cb3dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d04ae2dfeef811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e329c0459660be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ROADMAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0980db162379aa26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ROADMAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0beaed02e1463f84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b36eed58563debf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33c2f1912cb06f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ROADMAP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "31c58e61cf0f0793",
+  "lastOpenFiles": [
+    "ai&ml all roadmap things/TOPICS AND SUBTOPICS.md",
+    "ai&ml all roadmap things/ROADMAP.md",
+    "time tables  todos/TODO.md",
+    "time tables  todos/daily time table to follow.md",
+    "time tables  todos",
+    "ai&ml all roadmap things/Time table.canvas",
+    "Untitled.canvas",
+    "ai&ml all roadmap things/full list of doc.base",
+    "ai&ml all roadmap things/README.md",
+    "ai&ml all roadmap things/AI-ML-Engineer-Roadmap.pdf",
+    "Untitled/Untitled.md",
+    "2026-11-06.md",
+    "Untitled",
+    "ai&ml all roadmap things"
+  ]
+}
